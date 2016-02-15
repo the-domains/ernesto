@@ -1,0 +1,28 @@
+name: Ernesto
+favicon: null
+layout_spectrum: 0.9524290643166751
+typography_spectrum: 0.7302243413869292
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3810262915212661
+  lightness: 0.43521066289395094
+  saturation: 0.44134079082868993
+  rhythmicContrast: 0.5436254811938852
+purpose: []
