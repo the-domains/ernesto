@@ -1,4 +1,4 @@
-name: Ernesto Benavides
+name: Ernesto
 favicon: null
 layout_spectrum: 0.25723
 typography_spectrum: 0.14065
@@ -22,7 +22,7 @@ color:
     - '#0d0b0c'
     - '#bc7e71'
     - '#604439'
-  brandStrength: 0.5
+  brandStrength: 0.0625
   lightness: 1
   saturation: 0.5
   rhythmicContrast: 0.5
