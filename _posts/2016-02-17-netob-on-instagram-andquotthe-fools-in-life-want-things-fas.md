@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:ddd32d1e-41ca-4bfd-896b-9919e09e25b5'
+inLanguage: null
+starred: false
+keywords: []
 description: 'netob on Instagram: “&quot;The fools in life want things fast and easy —money, success, attention.&quot; - Robert Greene You can&#39;t be an expert just like th'
+datePublished: '2016-02-17T19:46:19.445Z'
+dateModified: '2016-02-17T19:44:28.755Z'
 author: []
-datePublished: '2016-02-17T19:27:50.948Z'
-publisher:
-  domain: ''
-  name: ''
-dateModified: '2016-02-16T16:40:14.607Z'
 title: ''
 sourcePath: _posts/2016-02-17-netob-on-instagram-andquotthe-fools-in-life-want-things-fas.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: netob-on-instagram-andquotthe-fools-in-life-want-things-fas/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
